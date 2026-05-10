@@ -1,5 +1,4 @@
 # 🛡️ ChurnShield — Bank Attrition Intelligence Platform
-### **Demo :** https://customer-churn-prediction-2fpdi4kmo5a4djcfmx8kes.streamlit.app/
 
 ## Overview
 A full-stack ML-powered Streamlit application for predicting and reducing bank customer churn.
