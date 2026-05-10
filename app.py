@@ -280,7 +280,7 @@ with st.sidebar:
 # ─── HEADER ──────────────────────────────────────────────────────────────────
 col_logo, col_title = st.columns([0.3, 4], gap="small")
 with col_logo:
-    st.image("C:\\Users\\Amr\\Downloads\\New folder (2)\\pic.jpg", width=220)
+    st.image("pic.jpg", width=220)
 with col_title:
     st.markdown("""
 <div class='main-header'>
